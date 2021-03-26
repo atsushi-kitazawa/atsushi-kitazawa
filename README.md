@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm software developer.
+
+I usually use Java.
+
+I often use Go for personal projects.
+
+I'm interested in Typescript and React now. I plan to start learning soon.
+
 <!--
 **atsushi-kitazawa/atsushi-kitazawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
